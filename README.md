@@ -13,7 +13,7 @@ A minimalistic weather app built using plain HTML, CSS, and JavaScript that fetc
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Enter the name of the city you want to get the weather information for in the input field.
-4. Click the "Get Weather" button or press Enter to fetch the weather data.
+4. Click the search button to fetch the weather data.
 5. The weather information will be displayed on the screen.
 
 ## APIclear
