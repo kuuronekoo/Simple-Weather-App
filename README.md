@@ -1,6 +1,6 @@
 # Simple Weather App
 
-A minimalistic weather app built using plain HTML, CSS, and JavaScript that fetches current weather data for a given location.
+A minimalist weather app built using plain HTML, CSS, and JavaScript that fetches current weather data for a given location.
 
 ## Features
 
