@@ -5,7 +5,7 @@ A minimalist weather app built using plain HTML, CSS, and JavaScript that fetche
 ## ⛅Features
 
 - ⚡ Get current weather information for any city
-- ❄ Display weather details like temperature, temperature etc.
+- ❄ Display weather details like temperature, humidity etc.
 - ⭐Responsive and mobile-friendly design
 
 ## 🌏How to Use
