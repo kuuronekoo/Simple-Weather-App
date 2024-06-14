@@ -1,14 +1,14 @@
-# Simple Weather App
+# 🌤Simple Weather App
 
 A minimalist weather app built using plain HTML, CSS, and JavaScript that fetches current weather data for a given location.
 
-## Features
+## ⛅Features
 
-- Get current weather information for any city
-- Display weather details like temperature, humidity, and weather description
-- Responsive and mobile-friendly design
+- ⚡ Get current weather information for any city
+- ❄ Display weather details like temperature, temperature etc.
+- ⭐Responsive and mobile-friendly design
 
-## How to Use
+## 🌏How to Use
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
@@ -16,7 +16,7 @@ A minimalist weather app built using plain HTML, CSS, and JavaScript that fetche
 4. Click the search button to fetch the weather data.
 5. The weather information will be displayed on the screen.
 
-## APIclear
+## 🔥API
 
 The app uses the OpenWeatherMap API to fetch weather data. To use the API, you'll need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
 
@@ -26,7 +26,7 @@ Replace `YOUR_API_KEY` in the `script.js` file with your own API key:
 const apiKey = 'YOUR_API_KEY';
 ```
 
-## Customization
+## 🌀Customization
 
 You can customize the appearance of the app by modifying the styles in the `style.css` file. Feel free to add more features or improve the existing ones by editing the `script.js` file.
 
